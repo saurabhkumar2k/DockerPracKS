@@ -10,5 +10,9 @@ Docker Concepts
    <img width="1252" height="322" alt="image" src="https://github.com/user-attachments/assets/80cf86f8-c0c0-4c46-8539-869276ca3ec1" />
 5. Now push this image to your newly created AWS repository;
    <img width="1157" height="452" alt="image" src="https://github.com/user-attachments/assets/cee79502-b5c4-4359-a98b-8a38d0e0ace5" />
+6. Check for the docker images.
+   run a command docker image list
+   <img width="1040" height="256" alt="image" src="https://github.com/user-attachments/assets/ac82beee-46fb-4337-95bc-bf15425d5b07" />
+7. 
 
 
