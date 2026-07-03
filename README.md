@@ -42,6 +42,10 @@
 <img width="997" height="412" alt="image" src="https://github.com/user-attachments/assets/0815f828-7fe7-4d32-9a97-a4eb949f7228" />
 4. Use command "docker compose build" to run both of the applications i.e ms1 and ms2.
    <img width="945" height="402" alt="image" src="https://github.com/user-attachments/assets/c8602249-ea9d-4219-b852-456aa3f54172" />
+5. To check both of the services where it is running or not.
+   Run command docker compose up.
+   Scrennshots:
+   <img width="1912" height="385" alt="image" src="https://github.com/user-attachments/assets/5dc47e59-997a-47d9-9e16-4abb9f0c12f4" />
 
 
 
