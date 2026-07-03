@@ -46,7 +46,9 @@
    Run command docker compose up.
    Scrennshots:
    <img width="1912" height="385" alt="image" src="https://github.com/user-attachments/assets/5dc47e59-997a-47d9-9e16-4abb9f0c12f4" />
-<img width="1806" height="581" alt="image" src="https://github.com/user-attachments/assets/be6d11c8-5533-4b55-aa20-5dd933872fed" />
+
+<img width="1893" height="467" alt="image" src="https://github.com/user-attachments/assets/16b7ff8e-792d-4564-882e-7c945c57b893" />
+
 
 
 
